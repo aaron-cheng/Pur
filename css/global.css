@@ -460,6 +460,12 @@ article a{
 	margin: 10px auto auto 40px;
 }
 
+.mobile_nav__txt{
+	font-size: 14px;
+	font-weight: 400;
+	margin: 15px 20px auto 15px;
+}
+
 .nav__txt{
 	font-size: 14px;
 	font-weight: 400;
@@ -612,6 +618,10 @@ footer{
 	line-height: 48px;
 }
 
+.mountstand__title{
+	margin-top:-40px;
+}
+
 @media (max-width: 767px) {
 	.img_hero{
 		height: 200px;
@@ -651,6 +661,19 @@ footer{
 
 	.main_nav__txt{
 		margin: 10px 20px auto 40px;
+	}
+
+	.nav__logo{
+		width: 60px;
+		margin-top: 3px;
+	}
+
+	.btn__menu_expand{
+		margin-top: 6px;
+	}
+
+	.mountstand__title{
+		margin-top:0;
 	}
 }
 /*----------------------------------------------

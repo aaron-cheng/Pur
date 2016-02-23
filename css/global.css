@@ -196,6 +196,10 @@ article p{
 	color: #00b7eb;
 }*/
 
+q {
+    font-style: italic;
+}
+
 article a{
 	color: #00b7eb;	
 	font-weight: 400;

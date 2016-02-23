@@ -198,6 +198,7 @@ article p{
 
 q {
     font-style: italic;
+    
 }
 
 article a{
@@ -590,6 +591,10 @@ footer{
 	margin-top: 18px;
 }
 
+.btn--buy__wrapper{
+	margin-top: -120px;
+}
+
 .service__line--vertical{
 	position: absolute;
 	background-color: #808A97;
@@ -686,6 +691,11 @@ footer{
 	.mountstand__title{
 		margin-top:0;
 	}
+
+	.btn--buy__wrapper{
+		margin-top: -20px;
+	}
+
 }
 
 .icon--social{

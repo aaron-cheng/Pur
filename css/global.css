@@ -748,11 +748,8 @@ body {
 
 }
 
-.txt--brand{
-	position: absolute;
-	bottom: 20%;
-	right: 10%;
-	left: 10%;
+.meta{
+display:none;
 }
 
 @media (max-width: 767px) {
